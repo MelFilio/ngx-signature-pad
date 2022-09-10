@@ -1,6 +1,6 @@
 {
-  "name": "ngx-signature-pad",
-  "version": "0.0.1",
+  "name": "@owey/ngx-signature-pad",
+  "version": "0.0.3",
   "peerDependencies": {
     "signature_pad": "^4.0.7",
     "@angular/core": "^14.1.0"
