@@ -29,12 +29,10 @@ export class NgxSignaturePad implements AfterViewInit, OnChanges {
   constructor(private renderer2: Renderer2) { }
 
   ngOnChanges(changes: SimpleChanges): void {
-    console.log(changes);
     if (changes['options'].firstChange) {
       return;
     }
 
-    console.log(changes['options'].currentValue);
     const {
       dotSize,
       minWidth,
