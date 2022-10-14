@@ -1,14 +1,14 @@
 {
   "name": "@owey/ngx-signature-pad",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "peerDependencies": {
     "signature_pad": "^4.0.7",
-    "@angular/core": "^14.1.0"
+    "@angular/core": "^14.2.6"
   },
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.",
+  "description": "This library was ge nnerated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.",
   "main": "karma.conf.js",
   "devDependencies": {},
   "scripts": {
